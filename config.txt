@@ -1,0 +1,52 @@
+user@domain.com
+
+Journal of the American Chemical Society
+Biotechnology and bioengineering
+Biotechnology for biofuels and bioproducts
+Coordination chemistry reviews
+
+photosystem II
+monooxygenase activity
+nitrogenase
+oxygen evolving complex
+FeMoCo
+protein refolding
+directed evolution of proteins
+fatty acid reactions
+peroxidase activity
+tuning redox potential
+primary coordination sphere
+secondary coordination sphere
+artificial metalloenzyme
+iron-sulfur cluster
+hydrogenase
+water oxidation
+CO2 reduction
+nitrite reductase
+nitrosylation
+heme-copper oxidase
+multicopper laccase
+oxygen reduction reaction
+multi electron
+metalloprotein spectroscopy
+protein protein interfaces
+bioorganometallic chemistry 
+DNAzyme
+Aptamer
+in vitro selection
+SELEX
+DNA binding
+peptide nucleic acids
+DNA isothermal amplification methods
+functional DNA sensors
+sensing of metal ions
+fluorecent DNA aptamers
+CRISPR
+blood brain barrier
+synthetic biology
+polymerase engineering
+metabolite engineering
+DNA 3D structures
+DNA origami
+G-quadruplex
+riboswitch
