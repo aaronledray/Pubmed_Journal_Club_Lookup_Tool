@@ -26,6 +26,8 @@
   - journals of interest
   - single blank line!
   - keywords of interest
+
+- Excamples for journals and keywords are found in examples_of_journal_names.txt and examples_of_keywords.txt
  
 - in a terminal, navigate to the directory containing the script file Journal_Lookup_Tool.py
   - input in terminal: ```python Journal_Lookup_Tool.py```
